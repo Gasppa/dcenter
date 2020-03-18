@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esse foi o meu primeiro projeto feito em Ruby on Rails, assim como meu primeiro contato com a linguagem Ruby.
 
-Things you may want to cover:
+Portanto, Victor do futuro, não seja tão duro consigo mesmo.
 
-* Ruby version
+O front dele foi feito em React e existe uma pequena integração com o MongoDB Atlas, onde são salvos os payloads enviados e de onde busco a quantidade de registros já enviados.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![apphome](https://i.imgur.com/z1WoQft.png)
