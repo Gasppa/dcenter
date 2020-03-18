@@ -1,4 +1,4 @@
-# README
+# My First Rails Application
 
 Esse foi o meu primeiro projeto feito em Ruby on Rails, assim como meu primeiro contato com a linguagem Ruby.
 
