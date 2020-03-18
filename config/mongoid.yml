@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://dcenter:dcenter@meancluster-debpj.gcp.mongodb.net/test?retryWrites=true&w=majority
+      options:
+        server_selection_timeout: 5
